@@ -12,4 +12,4 @@ Step 4 - Run `node .` to run the bot!
 
 # Thanks!
 
-Please join my [discord](https://discord.gg/2HgRFEzw5v) and subscribe to my [channel]() it may be a small step for you but it really helps me out!
+Please join my [discord](https://discord.gg/2HgRFEzw5v) and subscribe to my [channel](https://www.youtube.com/channel/UCRb0Ku-lmnsJSAquQ_FSTlQ) it may be a small step for you but it really helps me out!
